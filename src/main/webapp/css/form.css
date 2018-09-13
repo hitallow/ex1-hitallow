@@ -1,0 +1,83 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+html, body{
+	width: 100%;
+	height: 100%;
+}
+body{
+	background: url(../imagens/gamer.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	
+}
+.login{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+		
+}
+.loginContent{
+	border: 1px solid rgba(255,255,255,.4);
+	padding: 3em;
+}
+.login h2{
+	font-size: 50px;
+	color: #fff;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-weight: lighter;
+}
+.login input{
+	display: block;
+	margin: 10px;
+	width: 332px;
+	height: 50px;
+	background: rgba(0,0,0,0);
+	font-family: Source Sans Pro;
+	outline: none;
+	font-size: 14px;
+	color: #fff;
+	padding-left: 10px;
+	border: none;
+	border-bottom: 1px solid rgba(0,0,0,.4);
+	border-radius: 5px;
+}
+.login input:focus{
+	 box-shadow: 10px  #888888;
+}
+.login button{
+	display: block;
+	margin: 10px;
+	width: 332px;
+	height: 50px;
+	background: rgba(0,0,0,.7);
+	font-family: Source Sans Pro;
+	font-weight: lighter;
+	font-size: 23px;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+
+
+}
+@media screen and (max-width: 447px){
+	.loginContent{
+		padding: 1em;
+	}
+	.login h2{
+		font-size: 30px;
+	}
+	.login input, .login button{
+		width: 250px;
+		height: 50px;
+		font-size: 12px;
+	}
+	
+
+}
