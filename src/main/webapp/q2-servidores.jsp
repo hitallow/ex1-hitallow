@@ -26,6 +26,15 @@ Servidor web é um software responsável por aceitar pedidos em HTTP de clientes, 
 			
 		</p>
 	</div>
+	
+	<div>
+		<h3> Servidor de aplicação</h3>
+		<p>
+			Um Servidor de Aplicações (em inglês Applications Server), é um servidor que disponibiliza um ambiente para a instalação e execução de certas aplicações, centralizando e dispensando a instalação nos computadores clientes. Os servidores de aplicação também são conhecidos por middleware.
+
+O objetivo do servidor de aplicações é disponibilizar uma plataforma que separe do desenvolvedor de software algumas das complexidades de um sistema computacional. No desenvolvimento de aplicações comerciais, por exemplo, o foco dos desenvolvedores deve ser a resolução de problemas relacionados ao negócio da empresa, e não de questões de infraestrutura da aplicação. O servidor de aplicações responde a algumas questões comuns a todas as aplicações, como segurança, garantia de disponibilidade, balanceamento de carga e tratamento de exceções.
+		</p>
+	</div>
 
 </div>
 

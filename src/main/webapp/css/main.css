@@ -1,4 +1,19 @@
-h3 colorRed{
+body,html{
+	padding: 0;
+	margin: 0;
+	font-family: Quicksand;
+
+}
+body{
+	box-sizing: border-box;
+
+}
+.colorRed{
 	color:red;
 	text-transform:uppercase;
+}
+a .linkIndex{
+	color:red;
+	
+	
 }

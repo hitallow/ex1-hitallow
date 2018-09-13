@@ -8,10 +8,9 @@
 
 <body>
 	<h2>Atividade avaliativa 1</h2>
-	<h3 class='colorRed'>colorr</h3>
 	<ul>
-	<li><a href="q1-cgi.jsp">1 - Explique o que Ã© CGI</a></li>
-	<li><a href="q2-servidores.jsp">Explique o que é Servidor Web, Container Web (Java) e Servidor de Aplicação </a> </li>
+	<li><a  class="linkIndex" href="q1-cgi.jsp">Explique o que é CGI</a></li>
+	<li><a class="linkIndex" href="q2-servidores.jsp">Explique o que é Servidor Web, Container Web (Java) e Servidor de Aplicação </a> </li>
 	</ul>
 
 </body>
