@@ -1,4 +1,4 @@
-package br.ufrn.ceres.bsi.pweb;
+package br.ufrn.ceres.bsi.pweb.ex1hitallo.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;

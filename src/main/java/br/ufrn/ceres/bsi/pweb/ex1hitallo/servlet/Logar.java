@@ -1,4 +1,4 @@
-package br.ufrn.ceres.bsi.pweb;
+package br.ufrn.ceres.bsi.pweb.ex1hitallo.servlet;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/Login")
+@WebServlet("/LogarServlet")
 public class Logar extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
@@ -32,7 +32,7 @@ public class Logar extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Served at: ").append(request.getContextPath());
+		response.getWriter().append("Cheguei no Servlet, agora posso fazer a lógica do Login. :D ").append(request.getContextPath());
 	}
 
 }
