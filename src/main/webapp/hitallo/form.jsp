@@ -9,7 +9,7 @@
 </head>
 <body>
 	
-	<form method="Post" action="/ex1-hitallow/Login">
+	<form method="Post" action="ex1-hitallow/Login">
 	<div class="login">
 		<div class="loginContent" id="content">
 			<h2>Sign in</h2>
