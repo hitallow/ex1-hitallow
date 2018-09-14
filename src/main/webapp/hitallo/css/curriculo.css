@@ -1,0 +1,15 @@
+.container{
+	width:95%;
+	border:1px solid red;
+	margin: 0.2rm auto;
+}
+.img{
+	max-widht:150px;
+	widht:100px;
+	height:100px;
+	
+}
+.centralise{
+	display:flex;
+	justify-content:center;
+}

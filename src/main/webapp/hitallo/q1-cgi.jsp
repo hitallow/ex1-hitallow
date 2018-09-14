@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,14 +23,14 @@
 <div class="container">
 		<div class="row">
 			<div class="col-md-12">
-			<h2>Explique o que é CGI</h2>
+			<h2>Explique o que Ã© CGI</h2>
 			
 			<p>
-				CGI - é uma sigla em inglês para o termo <i>Computer Graphic Imagnery</i>, ou seja, imagens geradas
-				por computador, a famosa, computação gráfica. O termo se refere a todas as imagens geradas
-				através de computadores feitas em três dimenções, com a profundidade de campo sendo possível, graças
-				apenas à computação. CGI nada mais é que praticamente todo tipo de efeito ou animações que vemos hoje em dia,
-				seja filmes, videogames ou mesmo na televisão.
+				CGI - Ã© uma sigla em inglÃªs para o termo <i>Computer Graphic Imagnery</i>, ou seja, imagens geradas
+				por computador, a famosa, computaÃ§Ã£o grÃ¡fica. O termo se refere a todas as imagens geradas
+				atravÃ©s de computadores feitas em trÃªs dimenÃ§Ãµes, com a profundidade de campo sendo possÃ­vel, graÃ§as
+				apenas Ã  computaÃ§Ã£o. CGI nada mais Ã© que praticamente todo tipo de efeito ou animaÃ§Ãµes que vemos hoje em dia,
+				seja filmes, videogames ou mesmo na televisÃ£o.
 			
 			
 			</p>
