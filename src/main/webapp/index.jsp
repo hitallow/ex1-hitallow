@@ -38,6 +38,7 @@
 				<li><a href="hitallo/q3.jsp">Questão  3</a></li>
 				<li><a href="hitallo/q4.jsp">Questão  4</a></li>
 				<li><a href="hitallo/q5.jsp">Questão  5</a></li>
+				<li><a href="hitallo/form.jsp">Questão 6</a></li>
 			</ul>	
 		</nav>
 	</div>
