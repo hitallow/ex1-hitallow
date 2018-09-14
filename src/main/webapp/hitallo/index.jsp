@@ -1,9 +1,11 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 	<title>Meu curriculo</title>
 	<link rel="stylesheet" type="text/css" href="hitallo/css/estilo.css">
-	
+	<meta charset="utf-8" />
 </head>
 <body>
 	<div class="wrapper">
@@ -31,11 +33,11 @@
 	<div class="content" id="respostas">
 		<nav>
 			<ul class="flexMenu">
-				<li><a href="hitallo/q1-cgi.jsp">Quest„o  1</a></li>
-				<li><a href="hitallo/q2-servidores.jsp">Quest„o 2</a></li>
-				<li><a href="hitallo/q3.jsp">Quest„o  3</a></li>
-				<li><a href="hitallo/q4.jsp">Quest„o  4</a></li>
-				<li><a href="hitallo/q5.jsp">Quest„o  5</a></li>
+				<li><a href="hitallo/q1-cgi.jsp">Quest√£o  1</a></li>
+				<li><a href="hitallo/q2-servidores.jsp">Quest√£o 2</a></li>
+				<li><a href="hitallo/q3.jsp">Quest√£o  3</a></li>
+				<li><a href="hitallo/q4.jsp">Quest√£o  4</a></li>
+				<li><a href="hitallo/q5.jsp">Quest√£o  5</a></li>
 			</ul>	
 		</nav>
 	</div>
