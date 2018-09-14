@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>um index</title>
+	<title>Index</title>
 	<link rel="stylesheet" type="text/css" href="hitallo/css/estilo.css">
 	<meta charset="utf-8" />
 </head>

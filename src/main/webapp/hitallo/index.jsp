@@ -20,10 +20,10 @@
 				</div>
 				<div class="responsiveNav menuResponsive">
 					<ul>
-						<li><a href="hitallo/index.jsp">Home</a></li>
+						<li><a href="index.jsp">Home</a></li>
 						<li><a href="#respostas">Respostas</a></li>
-						<li><a href="hitallo/q4.jsp">Curriculo</a></li>
-						<li><a href="hitallo/form.jsp">Login</a></li>
+						<li><a href="q4.jsp">Curriculo</a></li>
+						<li><a href="form.jsp">Login</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -33,11 +33,11 @@
 	<div class="content" id="respostas">
 		<nav>
 			<ul class="flexMenu">
-				<li><a href="hitallo/q1-cgi.jsp">Questão  1</a></li>
-				<li><a href="hitallo/q2-servidores.jsp">Questão 2</a></li>
-				<li><a href="hitallo/q3.jsp">Questão  3</a></li>
-				<li><a href="hitallo/q4.jsp">Questão  4</a></li>
-				<li><a href="hitallo/q5.jsp">Questão  5</a></li>
+				<li><a href="q1-cgi.jsp">Questão  1</a></li>
+				<li><a href="q2-servidores.jsp">Questão 2</a></li>
+				<li><a href="q3.jsp">Questão  3</a></li>
+				<li><a href="q4.jsp">Questão  4</a></li>
+				<li><a href="q5.jsp">Questão  5</a></li>
 			</ul>	
 		</nav>
 	</div>
