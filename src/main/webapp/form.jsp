@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Faça o login</title>
+	<title>Form raiz</title>
 	<link rel="stylesheet" type="text/css" href="css/form.css">
 	<meta charset="utf-8">
 </head>
