@@ -15,3 +15,7 @@ body{
 a .linkIndex{
 	color:red;	
 }
+nav.flexMenu{
+	display: flex;
+
+}

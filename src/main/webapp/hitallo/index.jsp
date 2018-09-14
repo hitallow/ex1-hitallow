@@ -1,10 +1,8 @@
-<%@ page language="java" contentType="text/html; charset=utf-8"
-    pageEncoding="utf-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 	<title>Meu curriculo</title>
-	<link rel="stylesheet" type="text/css" href='css/estilo.css'>
+	<link rel="stylesheet" type="text/css" href="hitallo/css/estilo.css">
 	
 </head>
 <body>
@@ -16,14 +14,14 @@
 				</div>
 
 				<div class="logoNav">
-					LOGO
+					My pag
 				</div>
 				<div class="responsiveNav menuResponsive">
 					<ul>
-						<li><a href="index.jsp">Home</a></li>
+						<li><a href="hitallo/index.jsp">Home</a></li>
 						<li><a href="#respostas">Respostas</a></li>
-						<li><a href="q4.jsp">Curriculo</a></li>
-						<li><a href="form.jsp">Login</a></li>
+						<li><a href="hitallo/q4.jsp">Curriculo</a></li>
+						<li><a href="hitallo/form.jsp">Login</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -32,11 +30,13 @@
 
 	<div class="content" id="respostas">
 		<nav>
-			<ul>
-				<li><a href="q1-cgi.jsp">Questão</a></li>
-
-			</ul>
-
+			<ul class="flexMenu">
+				<li><a href="hitallo/q1-cgi.jsp">Questão  1</a></li>
+				<li><a href="hitallo/q2-servidores.jsp">Questão 2</a></li>
+				<li><a href="hitallo/q3.jsp">Questão  3</a></li>
+				<li><a href="hitallo/q4.jsp">Questão  4</a></li>
+				<li><a href="hitallo/q5.jsp">Questão  5</a></li>
+			</ul>	
 		</nav>
 	</div>
 	<div class="content" id="about">

@@ -30,13 +30,13 @@
 
 	<div class="content" id="respostas">
 		<nav>
-			<ul>
+			<ul class="flexMenu">
 				<li><a href="q1-cgi.jsp">Questão 1</a></li>
 				<li><a href="q2-servidores.jsp">Questão 2</a></li>
 				<li><a href="q3.jsp">Questão 3</a></li>
 				<li><a href="q4.jsp">Questão 4</a></li>
 				<li><a href="q5.jsp">Questão 5</a></li>
-			</ul>
+			</ul>	
 		</nav>
 	</div>
 	<div class="content" id="about">
