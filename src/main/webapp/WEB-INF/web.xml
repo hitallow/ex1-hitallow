@@ -7,8 +7,8 @@
   <display-name>ex1-hitallow</display-name>
 
   <welcome-file-list>
-	<welcome-file>hitallo/index.html</welcome-file>
-	<welcome-file>hitallo/index.jsp</welcome-file>
+	<welcome-file>index.html</welcome-file>
+	<welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
  
 </web-app>

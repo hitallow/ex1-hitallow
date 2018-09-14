@@ -2,11 +2,13 @@ body,html{
 	padding: 0;
 	margin: 0;
 	font-family: Quicksand;
-
+	widht:100%;
+	height:100%;
 }
 body{
 	box-sizing: border-box;
-
+	widht:100%;
+	height:100%;
 }
 .colorRed{
 	color:red;
@@ -18,4 +20,21 @@ a .linkIndex{
 nav.flexMenu{
 	display: flex;
 
+}
+.centralise{
+	display:flex;
+	width:100%;
+	height:100%;
+	justify-content:center;
+	align-items:center;
+	
+}
+.mybtn{
+	position:absolute;
+	top:25px;
+}
+
+.header{
+	widht:100%;
+	height:30px;
 }

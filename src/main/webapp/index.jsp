@@ -3,8 +3,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Meu curriculo</title>
-	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<title>um index</title>
+	<link rel="stylesheet" type="text/css" href="hitallo/css/estilo.css">
 	<meta charset="utf-8" />
 </head>
 <body>
