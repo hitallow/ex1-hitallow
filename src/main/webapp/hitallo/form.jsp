@@ -14,7 +14,7 @@
 		<div class="loginContent" id="content">
 			<h2>Sign in</h2>
 		
-				<input id="b" type="email" placeholder="Email" name='email'>
+				<input id="b" type="text" placeholder="Email" name='email'>
 				<input type="password" placeholder="Senha" name='senha'>
 				<button id="a" type="submit" data-target="testando">Efetuar login</button>
 		</div>
