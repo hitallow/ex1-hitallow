@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
     <name>ex1hitallo</name>
-    <description>primeira avalização - PWeb</description>
+    <description>primeira avaliação - PWeb</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
