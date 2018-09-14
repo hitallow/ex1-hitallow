@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.ufrn.ceres.bsi.pweb</groupId>
-    <artifactId>ex1-hitallo</artifactId>
+    <artifactId>ex1hitallo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Ex1-hitallow</name>
+    <name>ex1hitallo</name>
     <description>primeira avalização - PWeb</description>
 
     <properties>
@@ -28,6 +28,7 @@
     </dependencies>
 
     <build>
+        <finalName>ex1hitallo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -88,21 +89,6 @@
                         </configuration>
                     </execution>
                 </executions>
-            </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-jar-plugin</artifactId>
-                <configuration>
-                    <archive>
-                        <manifest>
-                            <addClasspath>true</addClasspath>
-                            <classpathPrefix>libs/</classpathPrefix>
-                            <mainClass>
-                                br.ufrn.ceres.bsi.pweb.Main
-                            </mainClass>
-                        </manifest>
-                    </archive>
-                </configuration>
             </plugin>
         </plugins>
     </build>
