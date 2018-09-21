@@ -32,7 +32,13 @@ public class Logar extends HttpServlet {
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Cheguei no Servlet, agora posso fazer a lógica do Login. :D ").append(request.getContextPath());
+		String login = request.getParameter("email");
+		String senha = request.getParameter("senha");
+		if((login == "login" )) {
+			response.sendRedirect("/hitallo/form.jsp");
+		}else {
+			response.sendRedirect("index.jsp");
+		}
 	}
 
 }
