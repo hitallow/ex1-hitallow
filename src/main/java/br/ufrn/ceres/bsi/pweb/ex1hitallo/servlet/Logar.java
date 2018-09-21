@@ -35,7 +35,7 @@ public class Logar extends HttpServlet {
 		String login = request.getParameter("email");
 		String senha = request.getParameter("senha");
 		if(login.equalsIgnoreCase("login")&&(senha.equalsIgnoreCase("123"))) {
-			response.sendRedirect("hitallo/q4.jsp");
+			response.sendRedirect("hitallo/formcomBooststrap.html");
 		}else {
 			response.sendRedirect("index.jsp");
 		}
