@@ -34,8 +34,8 @@ public class Logar extends HttpServlet {
 		// TODO Auto-generated method stub
 		String login = request.getParameter("email");
 		String senha = request.getParameter("senha");
-		if((login == "login" )) {
-			response.sendRedirect("/hitallo/form.jsp");
+		if(login.equalsIgnoreCase("login")&&(senha.equalsIgnoreCase("123"))) {
+			response.sendRedirect("hitallo/q4.jsp");
 		}else {
 			response.sendRedirect("index.jsp");
 		}
