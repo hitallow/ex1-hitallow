@@ -9,8 +9,9 @@
 </head>
 <body>
 	
-	<form method="Post" action="/ex1hitallo/LogarServlet">
+	
 	<div class="login">
+		<form method="Post" action="/ex1hitallo/LogarServlet">
 		<div class="loginContent" id="content">
 			<h2>Sign in</h2>
 		
@@ -18,7 +19,8 @@
 				<input type="password" placeholder="Senha" name='senha'>
 				<button id="a" type="submit" data-target="testando">Efetuar login</button>
 		</div>
+		</form>
 	</div>
-	</form>
+
 </body>
 </html>
