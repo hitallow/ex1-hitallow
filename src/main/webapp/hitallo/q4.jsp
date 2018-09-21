@@ -12,11 +12,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12" >	
-					<div class="">
-						<img src="imagens/profile.jpg"/ class="img">
+					<div>
+						<img src="imagens/profile.jpg"/ class="img"/>
 					</div>
 					
-					<div clas="menu">
+					<div class="menu">
 						<nav>
 							<ul>
 								<li><a href="#dadospessoais">Dados pessoais</a></li>
@@ -29,8 +29,9 @@
 					</div>
 				</div>
 			</div>
-		</header>
 		</div>
+		</header>
+		
 		<div class="container ">
 			<div id="dadospessoais" class="row">
 				<section class="col-md-12 cards">	

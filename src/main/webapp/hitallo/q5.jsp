@@ -36,6 +36,7 @@ A principal função do CSS3 é abolir as imagens de plano de fundo, bordas arre
 			opções para tornar as páginas Web mais atraentes.</p>
 			</div>
 		</div>
+		<a href="formcombootstrap.html">Link para o curriculo com boosttrap</a>
 </div>
 </div>
 </body>
