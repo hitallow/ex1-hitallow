@@ -40,6 +40,7 @@ div header nav div.menu-icon{
 div header nav.menu-navgation{
 	position: fixed;
 	width: 100%;
+	background:black;
 }
 div header nav.menu-navgation ul{
 	background: rgba(0,0,0,0);
